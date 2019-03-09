@@ -1,0 +1,11 @@
+{
+  "name": "pull-pe",
+  "version": "1.0.0",
+  "description": "A pull-up-pull-down refresh of the vue component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wanghuapeng",
+  "license": "ISC"
+}
